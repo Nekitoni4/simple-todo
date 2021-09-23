@@ -1,0 +1,12 @@
+.item {
+    list-style: none;
+    outline: 1px solid red;
+    font-size: 14px;
+    padding: 5px 15px;
+    user-select: none;
+    margin: 15px 0;
+}
+
+.item-description {
+
+}
